@@ -5,7 +5,7 @@ This analysis is about tracking employee spending across different vendors over 
 
 ----------
 
-# Insights the Dashboard Brings:
+**Insights the Dashboard Brings:**
 
 - Top vendors and employee spending habits.
 
